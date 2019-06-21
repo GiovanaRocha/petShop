@@ -1,0 +1,14 @@
+
+.input-field input:focus + label {
+  color: #ee6e73 !important;
+}
+.row .input-field input:focus {
+  border-bottom: 1px solid #ee6e73 !important;
+  box-shadow: 0 1px 0 0 #ee6e73 !important
+}
+.btn{background-color: #ee6e73;}
+.page-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
